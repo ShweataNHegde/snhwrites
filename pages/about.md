@@ -6,9 +6,6 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hi, I'm Shweata. I've been trying to set up a website for myself for quite some time now. Perfectionalism got the best out of me. I've almost had a website up and running, but each time it felt something was missing. Either the theme didn't have a feature I wanted or I couldn't get something to work. This time, however, I've decided that it's important for me to have something up on the web than to have the perfect one up. 
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+I don't have a clear idea as to what I'll use the site for. I wanted it to be like a semi-public diary. I need to work out the details. We'll see :)
