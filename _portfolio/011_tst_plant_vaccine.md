@@ -19,7 +19,7 @@ One such plant-based vaccine for COVID-19 produced by the Medicago company is no
 
 Even though we would still have to store the purified impostor at low temperatures (2-8 C), researchers are developing vaccines in the form of powdered leaves (e.g. lettuce) that have already produced virus-like particles! They can be stored at room temperature and easily transported. By using greenhouses instead of fancy bioreactors, plant-based vaccines are an affordable alternative for countries with limited manufacturing resources. Who knew we could use plants to produce life-saving vaccines!
 
-Post: Shweata N. Hegde
-Guest edit: Elliot Jaffe
-Edit: Subhashini Muralidharan
-Image credit: iStock 
+- Post: Shweata N. Hegde
+- Guest edit: Elliot Jaffe
+- Edit: Subhashini Muralidharan
+- Image credit: iStock 
